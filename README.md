@@ -64,16 +64,6 @@ The **Employee Digital Footprint Summarizer** is a professional-grade tool desig
 - **📱 Responsive Design**: Modern interface that adapts to different screen sizes
 - **🔍 Data Validation**: Comprehensive input validation and data integrity checks
 
-## 🖼️ Screenshots
-
-### GUI Interface
-![GUI Main Window](assets/gui_screenshot.png)
-*Main application window with data collection and preview tabs*
-
-### Sample Report
-![Sample Report](assets/report_screenshot.png)
-*Professional PDF report with executive summary and detailed sections*
-
 ### CLI Usage
 ```bash
 $ python cli.py --system-info
