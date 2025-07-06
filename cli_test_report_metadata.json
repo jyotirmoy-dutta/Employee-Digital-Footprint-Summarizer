@@ -1,0 +1,13 @@
+{
+  "title": "Test CLI Report",
+  "generated_at": "2025-07-06T11:18:19.548374",
+  "data_counts": {
+    "logins": 2,
+    "file_shares": 0,
+    "app_usage": 0
+  },
+  "date_range": {
+    "start": null,
+    "end": null
+  }
+}
